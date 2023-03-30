@@ -1,0 +1,24 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Examples/custom_regex/scripts/ResoucesDB.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+bg = {
+"name": [  ],
+"path": [  ]
+}
+sprites = {
+"name": [  ],
+"path": [  ]
+}
+music = {
+"name": [  ],
+"path": [  ]
+}
+sound = {
+"name": [  ],
+"path": [  ]
+}
+loaded_images = [  ]
+loaded_audio = [  ]

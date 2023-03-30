@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sophia_angry.png-bb2d9b604e99bb3d4d77201ec99633b9.stex"
+path="res://.import/sophia_angry.png-58244e4811e916ba15fd5551e6d888c3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Characters/Sophia/sophia_angry.png"
-dest_files=[ "res://.import/sophia_angry.png-bb2d9b604e99bb3d4d77201ec99633b9.stex" ]
+source_file="res://Examples/custom_regex/Characters/Sophia/sophia_angry.png"
+dest_files=[ "res://.import/sophia_angry.png-58244e4811e916ba15fd5551e6d888c3.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/dani_angry.png-73834295d950be723e45b94e0830a90f.stex"
+path="res://.import/dani_angry.png-c075068d46cb99f5b5aa251d7091d1a2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Characters/Dani/dani_angry.png"
-dest_files=[ "res://.import/dani_angry.png-73834295d950be723e45b94e0830a90f.stex" ]
+source_file="res://Examples/custom_regex/Characters/Dani/dani_angry.png"
+dest_files=[ "res://.import/dani_angry.png-c075068d46cb99f5b5aa251d7091d1a2.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true
